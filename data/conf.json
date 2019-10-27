@@ -1,0 +1,341 @@
+[
+  {
+    "location": "Toronto, ON",
+    "name": "Rotman Business School, Machine Learning and the Market for Intelligence",
+    "web": "http://www.marketforintelligence.com/",
+    "date": "October 24, 2019",
+    "presenter": ""
+  },
+  {
+    "location": "Toronto, ON",
+    "name": "Web Unleashed (FITC)",
+    "web": "https://fitc.ca/event/to19/",
+    "date": "September 13-14, 2019",
+    "presenter": ""
+  },
+  {
+    "location": "Toronto, ON",
+    "name": "I.B Diploma Computer Science 2",
+    "web": "https://www.ucc.on.ca/todayucc/our-public-programs/ib-teacher-training-institute",
+    "date": "June 25-27, 2019",
+    "presenter": ""
+  },
+  {
+    "location": "Toronto, ON",
+    "name": "FITC 2019",
+    "web": "https://fitc.ca/event/to19/",
+    "date": "April 29 - May 1, 2019",
+    "presenter": ""
+  },
+  {
+    "location": "Toronto, ON",
+    "name": "I.B Middle Years Design 2",
+    "web": "https://www.ucc.on.ca/todayucc/our-public-programs/ib-teacher-training-institute",
+    "date": "June 26-28, 2018",
+    "presenter": ""
+  },
+  {
+    "location": "Toronto, ON",
+    "name": "FITC 2017",
+    "web": "https://fitc.ca/event/to17/",
+    "date": "April 23-25, 2017",
+    "presenter": ""
+  },
+  {
+    "location": "Toronto, ON",
+    "name": "ESRI Canada User Conference, Minecraft Spatial 2016",
+    "web": "https://esri.ca/en/events/esri-canada-user-conferences/past-proceedings/toronto-2016",
+    "date": "October 5, 2016",
+    "presenter": "1"
+  },
+  {
+    "location": "San Diego, CA",
+    "name": "ESRI Education User Conference, Minecraft Spatial 2016",
+    "web": "",
+    "date": "June 16 - July 1, 2016",
+    "presenter": "1"
+  },
+  {
+    "location": "Toronto, ON",
+    "name": "FITC 2016",
+    "web": "https://fitc.ca/event/to16/",
+    "date": "April 17-19, 2016",
+    "presenter": ""
+  },
+  {
+    "location": "Waterloo, ON",
+    "name": "Centre for Education in Math and Computing (CEMC) Summer Conference for Computer Studies Educators",
+    "date": "August 18-20, 2015",
+    "presenter": ""
+  },
+  {
+    "location": "Philadelphia, PA",
+    "name": "International Society for Technology in Education (ISTE)",
+    "date": "June 28-July 1, 2015",
+    "presenter": ""
+  },
+  {
+    "location": "Toronto, ON",
+    "name": "FITC 2015",
+    "date": "April 12-14, 2015",
+    "presenter": ""
+  },
+  {
+    "location": "Toronto, ON",
+    "name": "Future Innovation Technology Creativitiy (FITC) Spotlight Front-end",
+    "date": "November 29, 2014",
+    "presenter": ""
+  },
+  {
+    "location": "Bangalore, India",
+    "name": "Leaders Quest",
+    "web": "https://leadersquest.org/",
+    "date": "June 20-24, 2014",
+    "presenter": ""
+  },
+  {
+    "location": "Toronto, ON",
+    "name": "Ontario Association of Geographic and Environmental Educators (OAGEE) Fall Conference",
+    "date": "October 17-18, 2014",
+    "presenter": ""
+  },
+  {
+    "location": "Waterloo, ON",
+    "name": "Ontario Association of Geographic and Environmental Educators (OAGEE) Fall Conference",
+    "date": "November 1-2, 2013",
+    "presenter": "1"
+  },
+  {
+    "location": "San Antonio, TX",
+    "name": "International Society of Technology in Education (ISTE)",
+    "date": "June 23-26, 2013"
+  },
+  {
+    "location": "San Diego, CA",
+    "name": "ESRI International User Conference",
+    "date": "July 20-24, 2012"
+  },
+  {
+    "location": "Kingston, ON",
+    "name": "Ontario Association of Geographic and Environmental Educators (OAGEE) Fall Conference",
+    "date": "October 19-20, 2012"
+  },
+  {
+    "location": "Washington, DC",
+    "name": "Google Teachers Institute",
+    "date": "2011"
+  },
+  {
+    "location": "Toronto, ON",
+    "name": "Google CS for HS Conference (University of Toronto)",
+    "date": "2010"
+  },
+  {
+    "location": "Philadelphia, PA",
+    "name": "International Boys School Coalition",
+    "date": "2010",
+    "presenter": "1"
+  },
+  {
+    "location": "Ottawa, ON",
+    "name": "Ontario Association of Geographic and Environmental Educators (OAGEE) Fall Conference",
+    "date": "2010"
+  },
+  {
+    "location": "Denver, CO",
+    "name": "Congress for the New Urbanism 17",
+    "date": "May 10-14, 2009"
+  },
+  {
+    "location": "Grand Canyon, AZ",
+    "name": "I.B. Geography Seminar Level 3",
+    "date": "2008"
+  },
+  {
+    "location": "Windsor, ON",
+    "name": "Roger Nielson Hockey Coaching Clinic",
+    "date": "2008"
+  },
+  {
+    "location": "St. Petersburg, FL",
+    "name": "I.B. Theory of Knowledge Level 2",
+    "date": "2008"
+  },
+  {
+    "location": "Montezuma, NM",
+    "name": "I.B. Geography Level 3",
+    "date": "2007"
+  },
+  {
+    "location": "Markham, ON",
+    "name": "Ontario Association of Geographic and Environmental Educators (OAGEE) Fall Conference",
+    "date": "2006"
+  },
+  {
+    "location": "Savannah, GA",
+    "name": "URISA GIS/CAMA Integration Conference",
+    "date": "2005",
+    "presenter": "1"
+  },
+  {
+    "location": "Fredericton, NB",
+    "name": "ESRI Atlantic User Conference",
+    "date": "2004"
+  },
+  {
+    "location": "Boston, MA",
+    "name": "International Association of Assessment Officers",
+    "date": "2004",
+    "presenter": "1"
+  },
+  {
+    "location": "Columbus, OH",
+    "name": "Ohio IAS User Group Conference",
+    "date": "2004",
+    "presenter": "1"
+  },
+  {
+    "location": "Scottsdale, AZ",
+    "name": "IAS - OASIS User Conference",
+    "date": "2004",
+    "presenter": "1"
+  },
+  {
+    "location": "Fredericton, NB",
+    "name": "150 Years of Engineering: Symposium",
+    "date": "2004"
+  },
+  {
+    "location": "Fredericton, NB",
+    "name": "New Brunswick Geomatics Day",
+    "date": "2004"
+  },
+  {
+    "location": "Montreal, PQ",
+    "name": "Trans-boundary Trading and Env. Improvement - Env. Canada",
+    "date": "2004"
+  },
+  {
+    "location": "Belleville, ON",
+    "name": "I.B. Schools of Ontario Workshop",
+    "date": "2002",
+    "presenter": "1"
+  },
+  {
+    "location": "Cardiff, UK",
+    "name": "I.B. Online Curriculum Centre Training",
+    "date": "2002",
+    "presenter": "1"
+  },
+  {
+    "location": "London, ON",
+    "name": "Ontario Association of Geographic and Environmental Educators (OAGEE) Fall Conference",
+    "date": "2002"
+  },
+  {
+    "location": "San Diego, CA",
+    "name": "ESRI International User Conference",
+    "date": "2002"
+  },
+  {
+    "location": "Cardiff, UK",
+    "name": "I.B. Online Curriculum Centre Training",
+    "date": "2001"
+  },
+  {
+    "location": "Niagara Falls, ON",
+    "name": "Ontario Association of Geographic and Environmental Educators (OAGEE) Fall Conference",
+    "date": "2001"
+  },
+  {
+    "location": "Chautauqua Institution, NY",
+    "name": "Environmental Agenda",
+    "date": "2001"
+  },
+  {
+    "location": "Toronto, ON",
+    "name": "Ontario Association of Geographic and Environmental Educators (OAGEE) Fall Conference",
+    "date": "2000"
+  },
+  {
+    "location": "San Diego, CA",
+    "name": "ESRI International User Conference",
+    "date": "2000"
+  },
+  {
+    "location": "San Bernadino, CA",
+    "name": "International Conference on GIS in Education",
+    "date": "2000"
+  },
+  {
+    "location": "Jacksonville, FL",
+    "name": "I.B. Geography Level 1",
+    "date": "2000"
+  },
+  {
+    "location": "Minden, ON",
+    "name": "ESRI Outdoor Educators Conference (Leslie Frost Centre)",
+    "date": "1999"
+  },
+  {
+    "location": "Markham, ON",
+    "name": "ESRI Canada User Conference",
+    "date": "1999",
+    "presenter": "1"
+  },
+  {
+    "location": "Mississauga, ON",
+    "name": "URISA Ontario Conference",
+    "date": "1999",
+    "presenter": "1"
+  },
+  {
+    "location": "San Diego, CA",
+    "name": "ESRI International User Conference",
+    "date": "1998"
+  },
+  {
+    "location": "Toronto, ON",
+    "name": "URISA International Conference",
+    "date": "1997"
+  },
+  {
+    "location": "San Diego, CA",
+    "name": "ESRI International User Conference",
+    "date": "1997"
+  },
+  {
+    "location": "Toronto, ON",
+    "name": "Ideas that Matter: Jane Jacobs",
+    "date": "1997"
+  },
+  {
+    "location": "San Diego, CA",
+    "name": "ESRI International User Conference",
+    "date": "1996",
+    "presenter": "1"
+  },
+  {
+    "location": "Palm Springs, CA",
+    "name": "ESRI International User Conference",
+    "date": "1995",
+    "presenter": "1"
+  },
+  {
+    "location": "Palm Springs, CA",
+    "name": "ESRI International User Conference",
+    "date": "1994",
+    "presenter": "1"
+  },
+  {
+    "location": "Riverside, CA",
+    "name": "ESRI ARC/INFO v.7.0 Beta Conference",
+    "date": "1993",
+    "presenter": "1"
+  },
+  {
+    "location": "Ottawa, ON",
+    "name": "Canadian GIS Conference",
+    "date": "1993"
+  }
+]
